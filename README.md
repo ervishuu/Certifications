@@ -2,6 +2,7 @@
 
 
 
+
 ># Complete Linear Regression Analysis in Python:
 
 
@@ -10,8 +11,7 @@
 
 
 
-Coursera Certificate Machine learning :
-
+># Coursera Certificate Machine learning :
 
 
 
@@ -19,7 +19,7 @@ Coursera Certificate Machine learning :
 
 
 
-Data Visualization with Python :
+># Data Visualization with Python :
 
 
 
@@ -29,7 +29,7 @@ Data Visualization with Python :
 
 
 
-Programming For Everybody(Python) :
+># Programming For Everybody(Python) :
 
 
 
@@ -38,7 +38,7 @@ Programming For Everybody(Python) :
 
 
 
-Python Data Analysis:
+># Python Data Analysis:
 
 
 
@@ -47,7 +47,7 @@ Python Data Analysis:
 
 
 
-Some Python Modules to Create AI Projects For Beginners :
+># Some Python Modules to Create AI Projects For Beginners :
 
 
 
@@ -57,7 +57,7 @@ Some Python Modules to Create AI Projects For Beginners :
 
 
 
-Python Programming with Data Science:
+># Python Programming with Data Science:
 
 
 
@@ -66,7 +66,7 @@ Python Programming with Data Science:
 
 
 
-Python for Data Science and Data Analysis Masterclass :
+># Python for Data Science and Data Analysis Masterclass :
 
 
 
@@ -75,14 +75,14 @@ Python for Data Science and Data Analysis Masterclass :
 
 
 
-Python 3 :
+># Python 3 :
 
 
 ![Python 3!](https://user-images.githubusercontent.com/63738852/103911286-d4c42500-512b-11eb-98d1-ded8d069bbcc.jpg)
 
 
 
-Machine Learning,DL,NLP,AWS Deply:
+># Machine Learning,DL,NLP,AWS Deply:
 
 
 
@@ -91,6 +91,6 @@ Machine Learning,DL,NLP,AWS Deply:
 
 
 
-Training :
+># Training :
 
 ![vishwanath metkari](https://user-images.githubusercontent.com/63738852/103911374-f4f3e400-512b-11eb-82f7-59e4a9ed90b5.jpg)
