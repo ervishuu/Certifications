@@ -19,15 +19,6 @@
 
 
 
-># Data Visualization with Python :
-
-
-
-
-
-![Data Visualization with Python_page-0001](https://user-images.githubusercontent.com/63738852/103911217-c413af00-512b-11eb-8c66-1de90510723b.jpg)
-
-
 
 ># Programming For Everybody(Python) :
 
@@ -47,15 +38,6 @@
 
 
 
-># Some Python Modules to Create AI Projects For Beginners :
-
-
-
-
-
-![Some Python Modules to Create AI Projects For Beginners](https://user-images.githubusercontent.com/63738852/103911363-ee656c80-512b-11eb-861e-26a7e9f80a95.jpg)
-
-
 
 ># Python Programming with Data Science:
 
@@ -64,14 +46,6 @@
 
 ![Python Programming with Data Science](https://user-images.githubusercontent.com/63738852/103911354-ead1e580-512b-11eb-8c26-8e69c5c6589d.jpg)
 
-
-
-># Python for Data Science and Data Analysis Masterclass :
-
-
-
-
-![Python for Data Science and Data Analysis Masterclass](https://user-images.githubusercontent.com/63738852/103911323-e0175080-512b-11eb-9841-889a5d48ce32.jpg)
 
 
 
